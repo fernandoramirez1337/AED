@@ -1,0 +1,5 @@
+﻿  burbuja.cpp
+  main.cpp
+c:\users\51922\source\repos\project1\project1\main.cpp(9): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  Project1.vcxproj -> C:\Users\51922\source\repos\Project1\Debug\Project1.exe
